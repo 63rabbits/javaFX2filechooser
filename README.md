@@ -2,4 +2,4 @@
 
 FileChooser by JavaFX2.
 
-![javaFX2filechooser](/javaFX2filechooser.png)
+![javaFX2filechooser](/javaFX2filechooser.gif)
